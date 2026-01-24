@@ -261,3 +261,26 @@ If you want, next we can:
 * Or simplify it further for a **2–3 week academic deadline**
 
 Just say the word.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ML CICD 2017 Dataset
+
+Source: <link>
+Expected files:
+- Monday-WorkingHours.pcap
+- Tuesday-WorkingHours.pcap
+SHA256 checksums:
+- ...
