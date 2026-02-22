@@ -4,3 +4,4 @@ data/processed/
 *.csv
 *.parquet
 .gitignore
+venv/
